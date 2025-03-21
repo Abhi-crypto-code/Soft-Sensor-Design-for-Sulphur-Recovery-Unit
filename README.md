@@ -1,1 +1,1 @@
-# Soft-Senor-Design-for-Sulphur-Recovery-Unit
+# Soft-Sensor-Design-for-Sulphur-Recovery-Unit
